@@ -1,0 +1,7 @@
+Expand Node | Fringe
+--------------------
+-           | (8, 'A')
+A           | (3, 'C'), (11, 'B')
+C           | 
+Path: A => C
+Cost: 3
